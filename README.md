@@ -1,4 +1,4 @@
-# Hi, I'm Luana Aguiar! 👋
+# Hi, I'm Luana Aguiar! 
 
 I am an **Android Integration Analyst Intern** and a **Software Engineering Student**. Currently, I am focused on **robotic process automation** and **front-end development**.
 
